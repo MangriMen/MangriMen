@@ -10,7 +10,7 @@
 </div>
 
 ### About me
-- 🌱 Currently learning React and Go
+- 🌱 Currently learning React
 - 🌍 Can communicate in English
 
 ---
